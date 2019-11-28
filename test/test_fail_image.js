@@ -8,7 +8,7 @@ module.exports = {
             .login('admin','123')
 
 
-        browser.saveScreenshot('tests_output/image.png')
+        browser.saveScreenshot('tests_output/image_denied.png')
 
 
 
